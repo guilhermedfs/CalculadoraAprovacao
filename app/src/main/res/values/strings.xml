@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CalculoAprova</string>
+    <string name="p1">P1</string>
+    <string name="p2">P2</string>
+    <string name="faltas">Faltas</string>
+    <string name="calcular">Calcular</string>
+    <string name="appLabel">Calculadora de aprovação</string>
+</resources>
